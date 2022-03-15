@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Captain-dd
 - 👀 I’m interested in machine learning and deep learning 
 - 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on streamlit to create dashboard for my data science project
 - 📫 You can reach me at dhruvildholariya111@gmail.com
 
 <!---
